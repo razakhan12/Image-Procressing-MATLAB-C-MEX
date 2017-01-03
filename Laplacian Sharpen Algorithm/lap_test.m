@@ -1,8 +1,5 @@
-% Alan Miller
-% 500360401
 
-% ele882, Lab 3
-% Part 2, Q 4
+
 
 plane = imread('7.2.01-small.png');
 orca = imread('digital_orca_blurred.png');
