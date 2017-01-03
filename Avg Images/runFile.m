@@ -1,0 +1,1 @@
+imshow(average_images(imread('snowglobe_001.png'),imread('snowglobe_002.png'),imread('snowglobe_003.png'),imread('snowglobe_004.png')))
